@@ -1,5 +1,5 @@
 # Fresh fruit for you Project
-this is a deep learning model that classifies rotten and fresh fruits for you
+it's a deep learning model that classifies rotten and fresh fruits for you
 
 <a href="https://colab.research.google.com/drive/1IiNL6NajNqAijnuT_A4QxozF5TI8ZCMT?usp=sharing" target="_parent"><img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Open In Colab"/></a><br>
 위의 'open in colab'버튼을 눌러서 진행할 수 있습니다.
